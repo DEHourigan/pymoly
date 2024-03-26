@@ -25,7 +25,8 @@ OR
 run https://raw.githubusercontent.com/cbalbin-bio/pymol-color-alphafold/master/coloraf.py
 
 coloraf model_name
-## Dave 
+
+## for ray tracing
 
 on the 2nd structure
 set ray_trace_mode,1
